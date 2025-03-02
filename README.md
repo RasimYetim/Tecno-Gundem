@@ -5,28 +5,36 @@ Tecno-Gündem, yapay zeka, donanım, yazılım, oyun, indirimler, sosyal medya v
 
 Bu proje, aşağıdaki temel bölümlerden oluşmaktadır:
 
-    Ana Sayfa: Kullanıcıya hoş geldin mesajı, logo ve iletişim butonunu içeren modern bir header.
-    Arama Çubuğu: Yakında aktif olacak, kullanıcıların içerik arayabileceği bir arama alanı.
-    Navigasyon Menüsü: Yapay zeka, donanım, yazılım, oyun, sıcak fırsatlar, sosyal medya ve siber güvenlik gibi farklı kategorilere hızlı erişim.
-    Son Paylaşılanlar: Son eklenen içeriklerin özet bilgilerinin tablo şeklinde listelenmesi.
+Ana Sayfa: Kullanıcıya hoş geldin mesajı, logo ve iletişim butonunu içeren modern bir header.
+Arama Çubuğu: Yakında aktif olacak, kullanıcıların içerik arayabileceği bir arama alanı.
+Navigasyon Menüsü: Yapay zeka, donanım, yazılım, oyun, sıcak fırsatlar, sosyal medya ve siber güvenlik gibi farklı kategorilere hızlı erişim.
+Son Paylaşılanlar: Son eklenen içeriklerin özet bilgilerinin tablo şeklinde listelenmesi.
+
+
 
 Özellikler
 
-    Responsive Tasarım: Farklı cihazlarda (mobil, tablet, masaüstü) uyumlu çalışan modern tasarım.
-    Kullanıcı Dostu Arayüz: Basit ve anlaşılır düzen, ziyaretçilerin sitede kolayca gezinmesini sağlar.
-    Etkileşimli Öğeler: Hover efektleri ve geçişli animasyonlar ile görsel etkileşim zenginleştirilmiştir.
+Responsive Tasarım: Farklı cihazlarda (mobil, tablet, masaüstü) uyumlu çalışan modern tasarım.
+Kullanıcı Dostu Arayüz: Basit ve anlaşılır düzen, ziyaretçilerin sitede kolayca gezinmesini sağlar.
+Etkileşimli Öğeler: Hover efektleri ve geçişli animasyonlar ile görsel etkileşim zenginleştirilmiştir.
+
+
 
 Kurulum
 
+
 Projenizi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-    Depoyu Klonlayın:
 
-git clone https://github.com/kullanici-adiniz/tecno-gundem.git
+Depoyu klonlayın
+
+    git clone https://github.com/kullanici-adiniz/tecno-gundem.git
+
 
 Klasöre Geçin:
 
-cd tecno-gundem
+    cd tecno-gundem
+
 
 Yerel Sunucuyu Başlatın:
 Basit bir HTTP sunucusu kullanabilirsiniz. Örneğin, Python ile:
@@ -55,24 +63,25 @@ Katkıda Bulunma
 
 Katkılarınızı memnuniyetle karşılıyoruz! Eğer hata bulursanız veya yeni özellikler eklemek isterseniz, lütfen aşağıdaki adımları takip edin:
 
-    Fork Edin: Projeyi kendi hesabınıza fork'layın.
-    Yeni Bir Branch Oluşturun:
+Fork Edin: Projeyi kendi hesabınıza fork'layın.
+Yeni Bir Branch Oluşturun:
 
-git checkout -b ozellik-ekle
+    git checkout -b ozellik-ekle
+
 
 Değişikliklerinizi Yapın ve Commit Edin:
 
-git commit -m "Yeni özellik eklemesi"
+    git commit -m "Yeni özellik eklemesi"
+
 
 Branch'inizi Push Edin:
 
     git push origin ozellik-ekle
 
-    Bir Pull Request açarak katkılarınızı gönderin.
+Bir Pull Request açarak katkılarınızı gönderin.
 
-Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+
 İletişim
 
 Sorularınız veya önerileriniz için lütfen iletişim adresi üzerinden bize ulaşın.
